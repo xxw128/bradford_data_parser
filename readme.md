@@ -1,2 +1,3 @@
-#Bradford assay data parser
-covert the data output from spectrometer to .csv file
+# Bradford assay data parser
+
+Coverts the output from spectrometer to .csv file
